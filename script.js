@@ -1,5 +1,8 @@
-//your JS code here. If required.
-function temp(){
-	alert("AccioJob")
+//your JS code nhere. If required.
+let fname = prompt();
+
+function fnamee(){
+	alert(`${fname}`);
 }
-temp();
+fnamee();
+
