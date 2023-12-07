@@ -1,8 +1,8 @@
 //your JS code nhere. If required.
-let fname = prompt();
+let functionName = prompt();
 
-functionName(fname){
-	alert(`${fname}`);
+temp(fname){
+	alert(`${functionName}`);
 }
-functionName(fname);
+temp();
 
