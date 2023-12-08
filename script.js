@@ -1,8 +1,10 @@
 //your JS code nhere. If required.
-let functionName = prompt();
+let fname = prompt();
 
-temp(fname){
-	alert(`${functionName}`);
+fname.slice(fname.length-2,2);
+
+temp(){
+	alert(`${fname}`);
 }
 temp();
 
