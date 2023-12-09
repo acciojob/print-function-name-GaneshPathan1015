@@ -1,10 +1,8 @@
 //your JS code nhere. If required.
-let fname = prompt();
 
-fname.slice(fname.length-2,2);
-
-temp(){
-	alert(`${fname}`);
+function (params) {
+	let val = (arguments.callee.name);
+	alert("val");
 }
-temp();
+
 
