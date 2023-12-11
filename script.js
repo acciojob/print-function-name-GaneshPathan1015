@@ -1,10 +1,9 @@
 //your JS code nhere. If required.
-let functionname = prompt();
 
-function = functionname(){
+function (){
 	let val = (arguments.callee.name);
 	alert(val);
 }
-functionname();
+
 
 
