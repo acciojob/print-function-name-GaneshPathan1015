@@ -1,9 +1,7 @@
 //your JS code nhere. If required.
 
-function (){
+
+function functionName(){
 	
 	alert(arguments.callee.name);
 }
-
-
-
